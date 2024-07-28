@@ -9,6 +9,7 @@ This data analysis Project aims at providing insights into the sales performance
 - [Tools](Tools)
 - [Data Cleaning & Preperation](Data-Cleaning-&-Preperation)
 - [Explanatory Data Analysis](Explanatory-Data-Analysis)
+- [Data Analysis](Data-Analysis)
 
 ### Data Sources
 
@@ -32,5 +33,14 @@ EDA involved exploring sales data to answer questions, such as;
 -  what is the overall sales trend?
 - which productb are top sellers?
 - what are the pick sales period?
+
+### Data Analysis
+
+Included someinteresting features/codes I worked with
+
+```SQL
+SELECT ' FROM table 4
+WHERE cond = 750
+```
 
   
