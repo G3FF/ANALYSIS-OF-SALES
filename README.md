@@ -1,4 +1,4 @@
-## SALE ANALYTICS
+## SALES ANALYTICS
 
 ### Project Overview
 
