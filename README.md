@@ -4,12 +4,19 @@
 
 This data analysis Project aims at providing insights into the sales performance of an electronic business shop over the past year and half, by analyzing different aspects of the sales data as we seek to identify trends, make data-driven recommendations,and gain a deeper understanding of the shops' overall perfomance.
 
-- [Project Overview](project-overview)
-- [Data Sources](Data-Sources)
-- [Tools](Tools)
-- [Data Cleaning & Preperation](Data-Cleaning-&-Preperation)
-- [Explanatory Data Analysis](Explanatory-Data-Analysis)
-- [Data Analysis](Data-Analysis)
+### Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning and Preperation](#data-cleaning-and-preperation)
+- [Explanatory Data Analysis](#explanatory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results/Findings](#results-findings)
+- [Recommendation](#recommendation)
+- [Limitations](#limitations)
+- [Refference](#refference)
+
 
 ### Data Sources
 
@@ -21,7 +28,7 @@ Sales Data: The primary data set for this anaylysis was from the "sales_data.csv
 - SQL Server - Data Analysis
 - PowerBI - Creating Repots
 
- ### Data Cleaning & Preperation
+ ### Data Cleaning and Preperation
  In the initial data preperation, I performed the following tasks;
   1. Data loading and Inspection.
   2. Handling missing Values.
@@ -42,5 +49,25 @@ Included someinteresting features/codes I worked with
 SELECT ' FROM table 4
 WHERE cond = 750
 ```
+
+### Results/ Findings
+
+The Analysis results are summerised as forllows;
+
+1. The shops sales have been steadily increasing over the past year and half, with noticeable pick during new software patch release and new part manaufacutre.
+2. Phone category B is the best-perfoming category interms of sales and venue.
+3. Customer areas with high lifetime value (LTV) should be targeted for marketing efforts.
+
+### Recommendation
+
+- Invest in marketing and promotions during peak sales seasons to maximize profit and revenue.
+- Focus in expanding production promoting phones in category B.
+- Implement a customer segmentation strategy to target hogh-LTV customer effectively.
+
+### Limitations
+
+
+### Refference
+
 
   
