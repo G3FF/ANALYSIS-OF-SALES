@@ -65,6 +65,7 @@ The Analysis results are summerised as forllows;
 - Implement a customer segmentation strategy to target hogh-LTV customer effectively.
 
 ### Limitations
+I had to remove all the zero and null values which conttributed to the results we have now
 
 
 
