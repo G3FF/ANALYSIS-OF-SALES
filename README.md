@@ -62,7 +62,7 @@ The Analysis results are summerised as forllows;
 
 - Invest in marketing and promotions during peak sales seasons to maximize profit and revenue.
 - Focus in expanding production promoting phones in category B.
-- Implement a customer segmentation strategy to target hogh-LTV customer effectively.
+- Implement a customer segmentation strategy to target high-LTV customer effectively.
 
 ### Limitations
 I had to remove all the zero and null values which conttributed to the results we have now
